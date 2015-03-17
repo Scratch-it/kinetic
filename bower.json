@@ -1,0 +1,21 @@
+{
+  "name": "kinetic",
+  "version": "0.0.2",
+  "homepage": "https://github.com/Scratch-it/kinetic",
+  "authors": [
+    "carl@scratch-it.com"
+  ],
+  "main": "js/raf.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
